@@ -17,7 +17,7 @@ for(let i=1; i<=test; i++){
         if (score[j] > avg) {
             count++;
         }
-    }
+    };
     
     let result = ((count / num2) * 100).toFixed(3);
     
