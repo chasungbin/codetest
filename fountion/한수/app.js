@@ -20,5 +20,3 @@ for (let i = 0; i < n + 1; i++) {
   }
 }
 console.log(arr.filter((is) => is).length - 1);
-profile
-안함
